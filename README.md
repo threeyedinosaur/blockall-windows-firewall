@@ -1,2 +1,2 @@
-# blockall-windows-firewall
+# blockall-winfirewall
 Disable or delete all network permissions
